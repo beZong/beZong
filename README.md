@@ -20,7 +20,7 @@ A bunch of ideas hanging for years. Those are dream features to organize Note, F
 
 
 ##Motivation
-Many softwares have those features, while not integrated together. 
+Many softwares have those features, while not well integrated together. 
 
 For example:
 
@@ -44,7 +44,9 @@ For example:
 
 
 ##Approach
-Studying many softwares, to figure out how much I can benefit from the open source world. Below is just a subset from my memos. The most important sources are:
+Studying many softwares, to figure out how much I can benefit from those open source projects and some master-piece closed-source programs. Below is just a subset from my memo. 
+
+The most important sources are:
 
 * http://alternativeto.net/
 * http://openhub.net/
@@ -61,14 +63,14 @@ Studying many softwares, to figure out how much I can benefit from the open sour
 | **Auto Classification** | | POPFile | | | |
 
 
-During 2014-10 to 2014-12, I checked many programming platforms, and then refined them to:
+During 2014-10 to 2014-12, I checked many programming platforms, and then refined my preferences to:
 * node-webkit, js 
 * C#, C++, .NET 
 * Java 
 * Python
 
 
-Thanks the valuable tutorial at [The Jackal of Javascript](http://thejackalofjavascript.com), I finaly find enough building block to start with node-webkit. The first step for me would be adding WYSIWYG HTML editing capability to one of below that already has file system hierarchy features
+Thanks the valuable tutorial at [The Jackal of Javascript](http://thejackalofjavascript.com), I finaly find enough building block to start with node-webkit. The first step for me would be adding WYSIWYG HTML editing capability to one of below that already have file system hierarchy features
 
 * **Node-Webkit File Player**
 * **CATS** (coding IDE) 

@@ -26,16 +26,16 @@ For example:
 
 * **Hierarchical Notetaking**
 
-|  | hierarchy | RTF/HTML editing | format | data migration |
-|--------|--------|
+| \ | hierarchy | RTF/HTML editing | format | data migration |
+|--------|--------|--------|--------|--------|
 | Evernote | @@<br> limited layers | @@ <br>not good for table | @@<br> internal html| @ |
 | Notational Velocity and alternatives | @@(@) | @(@)<br> not support external RTF pasting | @@(@)<br>text, html, markdown| @@(@) |
 | Windows Live Writer, Zoundry Raven | @ tags | @@@ | @@<br>internal html | @@ |
 
 * **Disk Analyzer**
 
-|  | size | date | folder browsing | snapshot |
-|--------|--------|
+| \ | size | date | folder browsing | snapshot |
+|--------|--------|--------|--------|--------|
 | Xinorbis | @@@ | @@@ | - | live & snapshot |
 | JDiskReport | @@@ | @<br> relative date | @@@ | live & snapshot |
 | WinDirStat | @@@ | - | @@ | live data only |
@@ -51,8 +51,8 @@ Studying many softwares, to figure out how much I can benefit from the open sour
 * http://sourceforge.net/
 * http://github.com/
 
-| | node-webkit, js | C#, C++, .NET | Java | Python & others |
-|--------|--------|
+| \ | node-webkit, js | C#, C++, .NET | Java | Python & others |
+|--------|--------|--------|--------|--------|
 | **Hierarchical Notetaking** | TiddlyWiki, TagSpaces, Laverna  | Evernote, Notational Velocity, nvALT, WLW, Tomboy | jNV | LoNote, nvpy, KeepNote, Zim-wiki, WikidPad, OutWiker, Zoundry Raven,  |
 | **File Explorer** | nwkFilePlayer, CATS, Cloud Commander, <br> nw-sample-apps, firecommander | FileZilla, WinSCP, Explorer++,<br> Better Explorer, Midnight Commander | muCommander | CubicExplorer,<br> Double Commander |
 | **Disk Analyzer** | sizeChecker | WinDirStat,<br> codeplex examples | JDiskReport | Xinorbis, diskusagereports |

@@ -60,7 +60,7 @@ The most important sources are:
 | **Disk Analyzer** | sizeChecker | WinDirStat,<br> codeplex examples | JDiskReport | Xinorbis, diskusagereports |
 | **File Search** | TagSpaces | Everything, Locate32, Listary |  | Launchy,<br>CD Index - 光碟索引大師 |
 | **Full Text Search** |  | | DocFetcher | Searchmonkey |
-| **Auto Classification** | | POPFile | | | |
+| **Auto Classification** | | | | POPFile |
 
 
 During 2014-10 to 2014-12, I checked many programming platforms, and then refined my preferences to:

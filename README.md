@@ -7,6 +7,7 @@
 A bunch of ideas hanging for years. Those are dream features to organize Note, File, Folder, and Disk.
 
 * **Hierarchical Notetaking** - WYSIWYG HTML editing, with file system hierarchy as storage.
+	* **beZongMemo** in very early stage -- [[1](https://github.com/Eucaly/bezongmemo)]  [[2](https://github.com/jbaron/cats/issues/141)]
 * **File Explorer** -
 	* file tagging
 	* virtual search folder
